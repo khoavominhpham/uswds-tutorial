@@ -9,6 +9,7 @@ A tutorial project to learn about installing, compiling, and customizing with US
 - Access to a terminal application
 - A text editor
 - A modern web browser
+- testing
 
 ## Installation
 
